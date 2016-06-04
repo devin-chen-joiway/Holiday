@@ -1,8 +1,10 @@
-package devin.jw.com.holiday;
+package com.jw.devin.view.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
+
+import devin.jw.com.holiday.R;
 
 public class MainActivity extends AppCompatActivity {
 
