@@ -4,7 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
-import devin.jw.com.holiday.R;
+import com.jw.devin.R;
+
 
 public class MainActivity extends AppCompatActivity {
 
